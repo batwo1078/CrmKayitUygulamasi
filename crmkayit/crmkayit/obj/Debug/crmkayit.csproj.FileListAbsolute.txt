@@ -1,0 +1,13 @@
+C:\Users\MSBPC\Desktop\crmkayit\crmkayit\bin\Debug\crmkayit.exe.config
+C:\Users\MSBPC\Desktop\crmkayit\crmkayit\bin\Debug\crmkayit.exe
+C:\Users\MSBPC\Desktop\crmkayit\crmkayit\bin\Debug\crmkayit.pdb
+C:\Users\MSBPC\Desktop\crmkayit\crmkayit\obj\Debug\crmkayit.csproj.AssemblyReference.cache
+C:\Users\MSBPC\Desktop\crmkayit\crmkayit\obj\Debug\crmkayit.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSBPC\Desktop\crmkayit\crmkayit\obj\Debug\crmkayit.Form1.resources
+C:\Users\MSBPC\Desktop\crmkayit\crmkayit\obj\Debug\crmkayit.Properties.Resources.resources
+C:\Users\MSBPC\Desktop\crmkayit\crmkayit\obj\Debug\crmkayit.csproj.GenerateResource.cache
+C:\Users\MSBPC\Desktop\crmkayit\crmkayit\obj\Debug\crmkayit.csproj.CoreCompileInputs.cache
+C:\Users\MSBPC\Desktop\crmkayit\crmkayit\obj\Debug\crmkayit.exe
+C:\Users\MSBPC\Desktop\crmkayit\crmkayit\obj\Debug\crmkayit.pdb
+C:\Users\MSBPC\Desktop\crmkayit\crmkayit\obj\Debug\crmkayit.kayit.resources
+C:\Users\MSBPC\Desktop\crmkayit\crmkayit\obj\Debug\crmkayit.listele.resources
